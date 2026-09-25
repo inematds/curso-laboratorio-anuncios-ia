@@ -1,0 +1,390 @@
+{
+  "slug": "laboratorio-anuncios-ia",
+  "title": "Laboratório de Anúncios com IA: 6 Cases Desmontados v6.2",
+  "modules": [
+    {
+      "title": "Lume · anúncio narrado",
+      "promise": "Ligue nove cenas por uma mensagem e uma voz clara.",
+      "topics": [
+        {
+          "title": "Plano de produção começa pela mensagem",
+          "concept": "Plano de produção reúne mensagem, cenas e critérios de revisão. Mila, diretora de 37 anos, ajuda Paulo, lojista de 54 anos, a estudar seis anúncios fictícios. O primeiro apresenta Lume, uma lanterna magenta. A ideia é uma pausa de luz em um cenário escuro. O filme não promete alcance, autonomia ou resistência do produto.",
+          "why": "Abra uma nota e escreva público, mensagem e ação final. Exemplo: pessoas que apreciam objetos de design; descobrir a forma da lanterna; conhecer o conceito. O anúncio didático terá 18 segundos e nove cenas. O roteiro completo está no caderno de casos, com intervalos e função de cada cena. Copie as nove cenas para a nota e registre suas funções.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Uma abertura precisa continuar fazendo sentido",
+          "concept": "Os três primeiros segundos apresentam escuridão, feixe e produto. Depois, a sequência explora textura e escala até voltar à lanterna. A narração proposta é: Quando tudo parece igual, uma pausa muda o olhar. Lume: imagine outro caminho. É uma frase de conceito, sem promessa técnica.",
+          "why": "Use um gerador de imagens, um gerador de vídeo e um editor que você já consiga operar. Os cursos de Prompting, Kling e CapCut dão essa base. Confira créditos antes de começar. A prática desta aula termina no roteiro; os arquivos serão produzidos nas etapas seguintes.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Escreva o que não deve mudar",
+          "concept": "A ficha da Lume registra corpo cilíndrico magenta, alça preta, uma lente frontal e ausência de marca impressa. A luz azul pertence ao ambiente. Gere primeiro o produto inteiro sobre uma pedra. Uma fotografia real autorizada seria a referência adequada para anunciar um produto existente.",
+          "why": "No gerador de imagens, peça: lanterna cilíndrica magenta, alça preta e uma lente frontal, inteira sobre pedra escura, névoa azul, sem letras. Salve o resultado. Confira corpo, alça, lente e apoio. Se alguma parte estiver deformada, ajuste antes de pedir as demais cenas.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A variação começa pela referência aprovada",
+          "concept": "Anexe a imagem aprovada como referência quando o recurso existir. Peça apenas uma mudança, como aproximar a câmera. Compare lado a lado. Cor parecida não prova identidade: observe formato, proporção e posição da alça. A ferramenta pode alterar detalhes mesmo recebendo a referência.",
+          "why": "As nove imagens do roteiro completo exigem produção adicional. A prática curta pede uma referência gerada e conferida. Registre o nome do arquivo e a decisão. Se a fila não terminar, deixe pendente. A imagem didática do curso serve para análise, sem substituir sua geração.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Anime uma ação por clipe",
+          "concept": "Produza as nove imagens do roteiro antes da montagem completa. No gerador de vídeo, use cada imagem como início. Para a cena do produto, peça câmera fixa e névoa movendo devagar, sem alterar a lanterna. Gere clipes curtos e salve os arquivos aprovados.",
+          "why": "Assista ao começo, meio e fim de cada clipe. Recuse lente extra, alça que desaparece ou produto que derrete. Corte um trecho limpo apenas se ele ainda cumprir a cena. Se a ferramenta não entregar um movimento aceitável, refaça com menos movimento antes de montar.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A voz deve conduzir o ritmo",
+          "concept": "Grave a frase com sua própria voz ou use uma voz sintética autorizada. Não precisa clonar ninguém. No CapCut, crie um projeto vertical, insira os clipes na ordem do caderno e ajuste para 18 segundos. Acrescente a voz e mantenha a música abaixo dela.",
+          "why": "Exporte em MP4 e abra o arquivo fora do editor. Confira as nove cenas, a frase compreensível e o encerramento com produto reconhecível. A prática curta é essa revisão de uma versão já produzida. Gerar nove cenas, gravar e editar leva tempo adicional; se faltar arquivo, registre a pendência.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Vento · sequência musical",
+      "promise": "Planeje o som e confira quatro trechos encadeados.",
+      "topics": [
+        {
+          "title": "Escolha a faixa antes das cenas",
+          "concept": "Vento é um videoclipe instrumental fictício de 20 segundos. Uma pessoa de roupa coral atravessa um corredor de vidro verde. O objetivo é parecer um percurso contínuo. O exemplo não usa voz cantada nem imita um artista conhecido.",
+          "why": "Abra a faixa instrumental do kit e ouça os 20 segundos. Ela tem créditos e licença indicados no caderno. Marque quatro trechos: 0–5, 5–10, 10–15 e 15–20 segundos. Esses limites organizam o estudo; ajuste os cortes pelo que você realmente ouvir, sem inventar uma batida em cada marca.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Continuidade aparente exige planejamento",
+          "concept": "Escreva uma ação simples por trecho: começar a caminhar, avançar, passar pela faixa de luz e parar. Preserve roupa, pessoa, corredor e direção do movimento. O roteiro usa quatro clipes unidos. Não é uma gravação real sem cortes, mesmo quando a passagem parece contínua.",
+          "why": "Você pode criar outra música numa ferramenta como Suno, se verificar as condições da conta e do uso pretendido. Isso é opcional. Para seguir agora, use a faixa do kit com seus créditos. Guarde nome da música, origem e os quatro tempos escolhidos.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Um par semelhante reduz o salto",
+          "concept": "Gere a pessoa de roupa coral no corredor de vidro verde, corpo inteiro e braços relaxados. Salve essa referência. Peça uma segunda imagem usando a primeira como referência: a mesma pessoa avança poucos passos, mantendo luz, roupa e direção.",
+          "why": "Compare rosto, comprimento da roupa, piso e pilares. Se o corredor mudar de arquitetura, o par não está pronto. Não tente resolver toda diferença com um pedido de transição suave. Corrija a imagem de chegada ou reduza a distância entre as duas posições.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "O fim aprovado ajuda a iniciar o trecho seguinte",
+          "concept": "No recurso de quadro inicial e final, quando disponível, as duas imagens orientam os extremos do clipe. Elas não garantem tudo que acontece entre eles. Para encadear trechos, prefira salvar o último quadro limpo do vídeo aprovado como início do próximo.",
+          "why": "Neste recorte, produza e confira apenas o primeiro par de imagens. Os demais pontos serão feitos depois do teste de movimento. Guarde as duas versões e uma ficha de continuidade. A prática termina com arquivos reais; um pedido preparado continua pendente até gerar.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Gere e confira uma passagem primeiro",
+          "concept": "Use o par aprovado em uma função de quadro inicial e final, se sua conta oferecer. Peça caminhada lenta no mesmo corredor e câmera acompanhando de forma suave. Se só houver imagem inicial, gere um trecho curto e use seu último quadro limpo para continuar.",
+          "why": "Não prometa percurso contínuo antes de assistir. Confira pés, rosto, roupa e pilares no vídeo. Produza os quatro trechos com pontos de passagem próximos. Salve os arquivos aprovados. Se uma emenda falhar, refaça a passagem; uma fusão longa pode criar duas pessoas sobrepostas.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A música continua mesmo quando a imagem é dividida",
+          "concept": "No editor, mantenha uma faixa de música ao longo dos 20 segundos. Organize os quatro clipes sobre ela e corte nas passagens escolhidas. Compare a emenda em velocidade normal e depois quadro a quadro. Pequenos ajustes de duração podem ajudar; mudanças bruscas de velocidade exigem nova revisão.",
+          "why": "Exporte o MP4 e assista do início ao fim. Registre se o percurso parece contínuo ou se há um corte visível. Não chame quatro clipes editados de tomada real única. A prática curta confere a versão pronta; gerar, encadear e editar exige produção adicional.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Senda · produto e storyboard",
+      "promise": "Desenhe cinco planos e preserve o produto nas passagens.",
+      "topics": [
+        {
+          "title": "O produto precisa aparecer por um motivo",
+          "concept": "Senda é uma marca fictícia de óculos âmbar. O anúncio de 15 segundos apresenta forma e material, sem alegar proteção ou benefício de saúde. O papel creme dobrado funciona como cenário. A sequência vai do objeto inteiro ao detalhe e retorna ao conjunto.",
+          "why": "Desenhe cinco retângulos numa folha. Escreva em cada um: visão inteira, dobra do papel, detalhe da armação, mudança suave de ângulo e encerramento. Reserve três segundos para cada cena. No caderno, confira o que permanece e qual movimento é permitido em cada trecho.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Planeje o espaço antes do detalhe",
+          "concept": "O formato final é vertical. Desenhe o produto e deixe margem para não cortar as hastes. A frase Senda: observe os detalhes será colocada no editor, não pedida dentro da imagem gerada. Reserve o encerramento para ela, com leitura simples sobre fundo limpo.",
+          "why": "Uma transição não precisa transformar uma pessoa ou mudar sua idade. Neste caso, a dobra de papel aproxima os planos. O efeito deve ligar duas cenas compreensíveis. Se o produto sumir na passagem, reduza o movimento e volte ao quadro inteiro.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "A referência precisa caber no formato",
+          "concept": "Peça ao gerador uma imagem vertical de óculos âmbar translúcidos, duas lentes escuras e duas hastes, inteiros sobre papel creme dobrado. Deixe espaço ao redor. Salve o arquivo antes de pedir variações. O produto do exercício é fictício; não representa um modelo vendido.",
+          "why": "Confira duas lentes, ponte central, duas hastes e contato com o papel. Observe se alguma haste atravessa a lente ou muda de espessura sem motivo. Não use a sombra para esconder uma estrutura quebrada. Corrija o objeto na referência.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Variações devem preservar a construção",
+          "concept": "Use a imagem aprovada para pedir uma aproximação do material. Peça manter armação, ponte e dobradiças. Compare com a origem. Uma imagem de detalhe pode cortar parte do objeto por intenção; a referência principal precisa continuar inteira.",
+          "why": "A imagem didática desta aula é horizontal para leitura no curso. Ela mostra o material, mas não atende sozinha ao formato vertical do exercício. Gere seu próprio arquivo e confira o enquadramento. A prática termina com uma referência real salva e uma decisão registrada.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Movimentos pequenos protegem a identidade",
+          "concept": "Produza as cinco imagens previstas no caderno usando a referência aprovada. Gere clipes com aproximação lenta ou movimento suave do papel, mantendo o óculos estável. Em uma passagem, a dobra pode ocupar parte do quadro e revelar o plano seguinte.",
+          "why": "Confira o produto antes, durante e depois da passagem. Se uma haste nascer ou sumir, refaça. No editor, corte quando a dobra cobre uma região semelhante nos dois planos. O encaixe visual depende do resultado recebido, não apenas do pedido escrito.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Finalize com tempo para reconhecer",
+          "concept": "Monte os cinco trechos de três segundos. Coloque Senda: observe os detalhes no encerramento e confira se a leitura cabe nesse tempo. Use música autorizada em volume discreto. Exporte em MP4 vertical e abra o arquivo fora do editor.",
+          "why": "Revise ordem, duração, construção do óculos e frase. A prática curta é a inspeção do vídeo já montado. Se ainda faltar alguma geração, liste a cena pendente e retome a produção. O roteiro em papel não substitui o anúncio exportado.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Pulso · anúncio esportivo",
+      "promise": "Reduza o escopo e confira apoio, corpo e ritmo.",
+      "topics": [
+        {
+          "title": "Um anúncio curto precisa de uma ação clara",
+          "concept": "Pulso é um tênis coral fictício. O filme de 12 segundos mostra preparação, apoio do pé e início de um passo. A mensagem é perceber o próprio ritmo. Não promete correr mais rápido, evitar lesões ou melhorar desempenho.",
+          "why": "Planeje três cenas de quatro segundos. A primeira mostra o tênis na pista. A segunda mostra a pessoa preparada. A terceira mostra um passo simples. Um som curto pode marcar cada mudança. A prática de dez minutos é o planejamento, sem promessa de produzir o anúncio inteiro nesse prazo.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "O som organiza a tensão sem comprovar esforço",
+          "concept": "Você pode gravar três batidas leves numa mesa e usá-las como marcações de edição. Elas representam ritmo, não uma medição de coração. Guarde a gravação e confira se não há vozes ou ruídos indesejados. Também é possível montar primeiro em silêncio e acrescentar o som depois.",
+          "why": "Não comece com um voo de câmera complexo atravessando as pernas. O caso usa enquadramentos simples para observar apoio e anatomia. Escreva qual pé inicia o movimento e para onde a pessoa vai. Essas decisões serão verificadas nos clipes.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "O produto precisa de uma ficha curta",
+          "concept": "O Pulso tem tecido coral, sola creme, cadarços corais e nenhuma marca. Gere uma vista lateral sobre pista azul. Confira formato do solado, abertura do pé, cadarços e contato com o chão. Salve a referência aprovada com seu pedido.",
+          "why": "Para a pessoa, planeje roupa azul marinho e posição estável em pé, com os dois pés apoiados e braços soltos. O roteiro começa parado. Não peça corrida, salto e giro no mesmo trecho. A imagem de referência do tênis deve orientar a criação do calçado usado pela pessoa, sem garantir que todos os detalhes serão preservados.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "O contato com o chão precisa continuar plausível",
+          "concept": "Na imagem inicial da pessoa, confira se há duas pernas, dois pés e apoio coerente. Escolha um passo curto, numa única direção. Um calçado flutuando não será corrigido automaticamente pela animação. Volte à imagem antes de gastar mais gerações.",
+          "why": "Neste recorte, gere a referência do tênis e escreva a posição inicial da pessoa. A produção da imagem com a pessoa faz parte da preparação completa antes do vídeo. Guarde as duas tarefas separadas para não confundir a prática curta com todas as referências prontas.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Confira o apoio durante o passo",
+          "concept": "Prepare a imagem da pessoa parada em pé, com braços soltos com o tênis de referência. Gere um movimento curto: um pé avança e encontra a pista, corpo mantém equilíbrio, câmera estável. Assista devagar ao trecho de contato. Recuse pernas extras, sola que derrete ou pé atravessando o chão.",
+          "why": "Produza também os planos do produto e da preparação. Monte três trechos de quatro segundos conforme o caderno. Se usar marcas sonoras, alinhe-as aos momentos escolhidos. Elas não precisam acompanhar cada movimento. Preserve espaço para o olho reconhecer o produto.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Velocidade é uma escolha de leitura",
+          "concept": "Teste primeiro os clipes na velocidade normal. Se alterar a velocidade, confira novamente corpo, áudio e duração. Um trecho acelerado pode ficar mais confuso. A referência é conseguir entender preparação e passo, sem depender de pausar para descobrir o que aconteceu.",
+          "why": "Exporte o MP4 vertical com 12 segundos. Abra fora do editor e revise as três cenas. A prática curta é essa conferência de uma versão já produzida. Se o movimento não passar, mantenha a entrega pendente e refaça o trecho necessário.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Arquivo do Vento · primeira pessoa",
+      "promise": "Use quatro referências e um mapa de continuidade espacial.",
+      "topics": [
+        {
+          "title": "O olhar pertence a uma pessoa dentro da cena",
+          "concept": "Arquivo do Vento é um observatório fictício de paredes terracota e abertura circular no teto. A câmera representa o olhar de quem entra. Chamamos isso de primeira pessoa. O filme terá quatro cenas de quatro segundos, totalizando 16 segundos.",
+          "why": "Prepare quatro referências: arquitetura da sala, instrumento de latão, mãos com luvas cinza e luz do teto. Escreva qual característica cada uma controla. Elas podem ser imagens próprias, geradas ou autorizadas. Não use personagens ou cenários conhecidos como atalho para identidade.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A posição do observador organiza o espaço",
+          "concept": "Desenhe uma vista simples da sala: entrada, mesa e abertura no teto. Marque a posição inicial e o caminho até a mesa. A sequência será entrar, aproximar, observar o instrumento e encerrar. As mãos só aparecem quando fazem sentido nesse ponto de vista.",
+          "why": "A cena ilustrada mostra um observatório, não um conjunto completo de quatro arquivos de referência. Sua prática curta é a ficha com quatro funções e o mapa simples. Produzir as referências visuais faz parte da etapa seguinte, antes de gerar o vídeo.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Prepare e nomeie os quatro arquivos",
+          "concept": "Gere ou selecione uma imagem para cada função definida: sala, instrumento, luvas e luz. Salve com nomes claros. Se partir da imagem didática, ela serve como referência geral, mas não substitui os quatro arquivos do seu conjunto. Use o caderno para conferir características.",
+          "why": "Num gerador que aceite múltiplas referências, anexe os arquivos e descreva a função de cada um. Se não aceitar todos, comece pela sala e faça ajustes sucessivos. Mantenha os demais como ficha de conferência. Não declare que foram usados pelo modelo quando só foram consultados por você.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A primeira pessoa exige escala e posição",
+          "concept": "Peça visão em primeira pessoa, mesa adiante, instrumento de latão e luvas cinza na base do quadro. Confira se as mãos têm tamanho coerente com a mesa. Compare entrada, abertura no teto e direção da luz com o mapa. Retire elementos que não pertencem ao universo.",
+          "why": "A prática curta confere a imagem inicial após a preparação das quatro referências. Registre quais arquivos foram enviados e quais serviram apenas para revisão. Se a geração ainda estiver pendente, não marque a imagem como pronta.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Anime o olhar com deslocamento pequeno",
+          "concept": "Produza as quatro imagens do percurso usando o mapa e a referência aprovada. Gere aproximação lenta até a mesa, sem atravessar objetos. Se as mãos aparecerem, mantenha-as estáveis ou com ação simples. Confira os limites da ferramenta antes de pedir várias referências simultâneas.",
+          "why": "Observe abertura do teto, mesa, instrumento e mãos no começo e no fim de cada clipe. Não confunda aproximação com objeto crescendo. Se a sala se transformar, reduza a distância percorrida ou refaça o ponto de passagem. O mapa continua sendo a régua espacial.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A montagem mantém o observador situado",
+          "concept": "Organize quatro trechos de quatro segundos. Um som ambiente discreto pode sustentar a sala, desde que seja próprio ou autorizado. Não precisa acrescentar susto ou narração. A sequência deve permitir entender onde a pessoa está e o que observa.",
+          "why": "Exporte o MP4 de 16 segundos e confira as três passagens. Registre portas, mesa, luz e mãos. A prática curta revisa o arquivo já produzido. Qualquer cena ausente ou transformação não planejada mantém a entrega pendente.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Dobra · demonstração com personagem",
+      "promise": "Organize sete cenas identificadas, sem depoimento inventado.",
+      "topics": [
+        {
+          "title": "A demonstração mostra o que está na cena",
+          "concept": "Dobra é uma bolsa fictícia de lona oliva e alças creme. Jo, personagem sintética adulta, apresenta seu formato em sete cenas. O vídeo terá 21 segundos. Ele usa a linguagem de demonstrações pessoais, mas não representa uma compradora nem um teste real.",
+          "why": "Abra o roteiro no caderno. As cenas mostram apresentação, bolsa inteira, alça, tecido, abertura, conjunto e encerramento. Use frases observáveis: veja o formato, observe as alças, confira o detalhe. Evite eu uso há meses ou dura para sempre, porque não há essa experiência nem prova.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Identifique o exemplo na própria peça",
+          "concept": "Planeje uma identificação legível: Demonstração fictícia com IA. Ela deve acompanhar a peça, não ficar escondida apenas na pasta de produção. No encerramento, use Conheça o conceito Dobra. Não invente preço, estoque, avaliação ou urgência de compra.",
+          "why": "A marca e a personagem foram criadas para ensinar continuidade. Para um produto real, fotografias, medidas e afirmações precisam corresponder ao produto. Neste exercício, a prática termina com sete cenas e as falas previstas. A voz e os clipes vêm depois.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "A ficha registra as partes fixas",
+          "concept": "Jo tem pele morena, cabelo preto curto e blusa creme. A bolsa tem lona oliva, duas alças creme e formato retangular. Gere uma imagem de meio corpo, com Jo segurando a bolsa inteira. Peça fundo doméstico neutro e luz de janela.",
+          "why": "Confira mãos, alças, forma da bolsa e rosto. Salve a imagem aprovada como referência conjunta. Nas próximas cenas, peça mudar apenas o enquadramento ou a ação necessária. Uma referência ajuda, mas não impede alterações involuntárias. Compare cada resultado com a ficha.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A fala pode ser gravada sem clonar ninguém",
+          "concept": "Escolha sua própria gravação ou uma voz sintética cujo uso seja permitido pela ferramenta. Registre a origem. Não use a voz de outra pessoa sem autorização. A imagem de Jo não representa uma pessoa real cuja identidade esteja sendo copiada.",
+          "why": "Para sincronizar fala, use uma função de avatar ou sincronização labial disponível na sua conta. Confira o tipo de imagem aceito e faça primeiro uma frase curta. Nesta prática, gere a referência conjunta e registre a escolha de voz. O teste falado faz parte da produção seguinte.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Produza a fala curta antes da sequência completa",
+          "concept": "Gere um teste com a fala Veja o formato, usando a referência e a voz escolhidas. Confira boca, rosto e fim da frase. Se a função não aceitar a imagem ou não estiver disponível, use narração sobre o produto. Registre essa adaptação; não apresente a cena como sincronizada.",
+          "why": "Prepare os sete planos do caderno. Nas cenas de detalhe, a narração pode continuar sem mostrar a boca. Isso reduz a quantidade de sincronização necessária. Confira se tecido, alças e proporção da bolsa continuam coerentes. Recuse mãos que se fundem ao objeto.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A identificação faz parte da montagem",
+          "concept": "No editor, organize sete cenas de três segundos. Distribua as frases curtas previstas, com silêncio quando necessário. Inclua Demonstração fictícia com IA em tamanho legível e confira seu contraste. Preserve o produto visível e não cubra defeitos com texto.",
+          "why": "Exporte o MP4 vertical de 21 segundos. Abra o arquivo e confira sete cenas, fala compreensível, identidade, produto e identificação. A prática curta é essa revisão final. Se faltarem clipes, áudio ou identificação, mantenha a entrega pendente.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Processo de produção",
+      "promise": "Rastreie arquivos, tentativas e revisão.",
+      "topics": [
+        {
+          "title": "Cada arquivo precisa de um lugar",
+          "concept": "Crie uma pasta Laboratorio-Anuncios. Dentro dela, faça uma pasta para cada caso: Lume, Vento, Senda, Pulso, Arquivo e Dobra. Em cada caso, use cinco divisões: roteiro, referencias, clipes, audio e entrega. Guarde versões rejeitadas numa divisão separada chamada testes.",
+          "why": "Escolha uma cena já produzida. Nomeie seus arquivos com caso, cena e tentativa, como lume-c03-t02.mp4. Numa nota, registre o pedido, a referência usada e a decisão. Não renomeie arquivos que já estejam ligados ao editor sem conferir se o projeto ainda os encontra.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "O registro precisa localizar a origem",
+          "concept": "Uma linha útil informa cena, arquivo, referência, pedido e situação. Exemplo fictício: cena 3; lume-c03-t02.mp4; referencia-c03.png; câmera fixa; aprovado após conferir a alça. O exemplo mostra o formato do registro, sem afirmar que esse arquivo está no kit.",
+          "why": "Quando mudar um pedido, preserve a versão anterior. Isso permite entender qual alteração ajudou. Não precisa registrar cada clique do editor. Priorize o que permite refazer a cena e explicar por que uma tentativa passou ou foi rejeitada.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Separe trabalho ativo e espera",
+          "concept": "Escolha um dos casos produzidos. Registre minutos de planejamento, geração acompanhada, edição e revisão. Anote a espera de processamento separadamente. Se não mediu uma etapa, marque estimativa. Não apresente uma lembrança aproximada como cronômetro.",
+          "why": "Registre também tentativas, arquivos aprovados e créditos consumidos quando a conta mostrar esse dado. Se houver valor pago, anote o valor real e a data. Sem informação, escreva não medido. O curso não fixa preço de serviços nem garante consumo por anúncio.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Uma falha repetida pede uma mudança pequena",
+          "concept": "Exemplo didático: três tentativas perderam a alça da bolsa. Antes da quarta, reduza o movimento da mão e confira a referência. Registre a mudança e compare. Repetir exatamente o mesmo pedido sem observar o erro pode consumir recursos sem aprendizado.",
+          "why": "Defina um limite de tentativas para a próxima cena e uma alternativa. Exemplo: após duas falhas de giro, testar câmera fixa. O limite é sua escolha de trabalho, não uma regra universal. A alternativa precisa continuar cumprindo a função do roteiro.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Três passagens reduzem a disputa por atenção",
+          "concept": "Escolha um MP4 já produzido. Na primeira passagem, observe imagem: produto, personagem, mãos, fundo e emendas. Na segunda, ouça som: frase inteira, música e ruídos. Na terceira, confira mensagem: abertura, informação principal, identificação e encerramento.",
+          "why": "Pause quando encontrar um problema e anote o tempo mostrado pelo reprodutor. Escreva o que aconteceu e qual mudança testar. Exemplo fictício: 00:07; alça desaparece; refazer o clipe com mão parada. Uma opinião como ficou estranho precisa desse detalhe para orientar a correção.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "A revisão termina com uma decisão",
+          "concept": "Use três situações: aprovado, corrigir ou pendente. Aprovado significa que os critérios do caso passaram nessa versão. Corrigir exige um problema observado. Pendente significa que falta arquivo ou conferência. Nenhuma dessas situações prevê vendas ou alcance.",
+          "why": "Após corrigir, assista novamente ao trecho e ao vídeo inteiro. Uma alteração local pode mudar duração e som. Guarde a ficha com o nome exato da versão revisada. Não aprove uma versão antiga quando a entrega já foi substituída.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    },
+    {
+      "title": "Acabamento e entrega",
+      "promise": "Compare versões e organize seis estudos com um acabamento final.",
+      "topics": [
+        {
+          "title": "Escolha pela função que quer demonstrar",
+          "concept": "Depois de produzir as seis primeiras versões, escolha uma para acabamento. Lume demonstra narrativa; Vento, continuidade; Senda, produto; Pulso, movimento; Arquivo, espaço; Dobra, demonstração. A escolha deve combinar com o que você quer praticar, sem promessa de sucesso comercial.",
+          "why": "Abra uma ficha e registre caso, público, mensagem, formato, duração e arquivos de entrega. Preserve o número de cenas e a duração definidos no caderno. Exemplo: Senda, apresentação do conceito, vertical, 15 segundos, cinco cenas, MP4 e pasta de fontes.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Critérios de aceite precisam ser observáveis",
+          "concept": "Escreva quatro critérios: sequência completa, identidade coerente, áudio compreensível e texto legível. Acrescente a identificação de ficção com IA. Se o caso não tiver voz, confira música e efeitos sem distorção. A ficha deve permitir decidir sem depender apenas de gosto.",
+          "why": "Neste recorte, você escolhe e documenta o acabamento. Se alguma das seis versões ainda falta, registre a pendência e complete antes da entrega final. Reserve de 28 a 40 horas para o laboratório com produção, além de filas. Esse intervalo é uma estimativa de estudo, não um prazo garantido.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "Escolha um problema da ficha de revisão",
+          "concept": "Abra a versão escolhida e a ficha da aula 21. Selecione uma falha prioritária. Exemplo: alça desaparece, fala termina cortada ou frase final não cabe. Registre o tempo e a ação mínima necessária. Guarde a versão anterior com nome próprio.",
+          "why": "Corrija apenas o trecho necessário no gerador ou no editor. Uma falha de forma pode exigir nova geração. Um corte de voz pode exigir ajuste de edição. Não use a mesma solução para problemas diferentes. Salve a versão revisada e mantenha os arquivos que a originaram.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Compare o mesmo trecho nas duas versões",
+          "concept": "Assista à versão anterior e à revisada nas mesmas condições de som e tamanho. Confira o critério que motivou a mudança. Depois assista ao vídeo inteiro, porque duração e ritmo podem ter mudado. Registre melhorou, piorou ou não houve diferença observada.",
+          "why": "Se a primeira versão já passou em todos os critérios, faça uma alternativa controlada de encerramento. Compare e mantenha a melhor para a mensagem. Não é preciso inventar defeito. A prática curta revisa essa comparação depois de produzir a alteração; filas e montagem exigem tempo adicional.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        },
+        {
+          "title": "A entrega precisa de um índice simples",
+          "concept": "Crie uma nota com os seis casos e o nome de cada MP4 conferido. Lume tem 18 segundos; Vento, 20; Senda, 15; Pulso, 12; Arquivo, 16; Dobra, 21. Acrescente o arquivo de acabamento escolhido e a ficha com a comparação de versões.",
+          "why": "Guarde roteiro, referências, pedidos, clipes aprovados, áudio e créditos nas pastas correspondentes. Inclua o projeto do editor quando ele permitir guardar uma cópia utilizável. Confira se essa cópia encontra os arquivos de mídia. Um MP4 sozinho não preserva todos os elementos da edição.",
+          "practice": "Repita com uma mudança por vez. Guarde pedido, referência e resultado para comparar.",
+          "caution": "Confira a função disponível na sua conta antes de gerar. Filas, créditos e planos não estão incluídos no curso."
+        },
+        {
+          "title": "Abra os arquivos que outra pessoa receberia",
+          "concept": "Abra cada MP4 fora do editor. Confira início, fim, imagem, áudio, texto e identificação de exemplo fictício com IA. Revise também os créditos da música usada. Se usar o trecho do kit, mantenha a atribuição indicada junto da publicação ou entrega.",
+          "why": "A prática final só termina quando os seis estudos e o acabamento existem e passaram pela conferência. Uma pendência permanece visível no índice. O resultado é um portfólio de estudos autorais, sem alegar clientes, campanhas veiculadas ou resultados que não aconteceram.",
+          "practice": "Guarde a versão anterior e registre o que mudou na leitura. Uma mudança sem melhora pode ser desfeita.",
+          "caution": "Os seis casos são autorais e fictícios. As imagens do Codex ilustram decisões; não são campanhas reais nem vídeos produzidos."
+        }
+      ]
+    }
+  ]
+}

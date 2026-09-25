@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "lume",
+    "title": "Lume · anúncio narrado",
+    "duration": 18,
+    "image": 2,
+    "fixed": "Lanterna cilíndrica magenta, alça preta e uma lente frontal. Pedra escura e ambiente azul. Não representa desempenho real.",
+    "rows": [
+      {
+        "time": "0–2",
+        "scene": "Produto na penumbra",
+        "image_prompt": "Lanterna inteira sobre pedra escura; contorno magenta visível, espaço para texto no editor.",
+        "motion": "Câmera fixa; névoa leve.",
+        "review": "O produto pode ser reconhecido pelo contorno."
+      },
+      {
+        "time": "2–4",
+        "scene": "Feixe aparece",
+        "image_prompt": "Mesma lanterna acesa; feixe suave na névoa azul.",
+        "motion": "A névoa se move sem alterar a lente.",
+        "review": "Uma lente, uma alça, forma preservada."
+      },
+      {
+        "time": "4–6",
+        "scene": "Apresentação inteira",
+        "image_prompt": "Mesma lanterna totalmente visível sobre a pedra.",
+        "motion": "Aproximação pequena e lenta.",
+        "review": "Nenhuma parte desaparece."
+      },
+      {
+        "time": "6–8",
+        "scene": "Textura do corpo",
+        "image_prompt": "Detalhe do corpo magenta, mesma proporção e material.",
+        "motion": "Luz varia suavemente; produto parado.",
+        "review": "Textura não vira letras ou marca."
+      },
+      {
+        "time": "8–10",
+        "scene": "Alça",
+        "image_prompt": "Detalhe da alça preta presa ao corpo, apoio natural.",
+        "motion": "Câmera estável.",
+        "review": "Alça continua presa e não se multiplica."
+      },
+      {
+        "time": "10–12",
+        "scene": "Escala no ambiente",
+        "image_prompt": "Produto inteiro na mesma pedra, mais espaço azul ao redor.",
+        "motion": "Névoa passa ao fundo.",
+        "review": "A escala não muda durante o clipe."
+      },
+      {
+        "time": "12–14",
+        "scene": "Luz e matéria",
+        "image_prompt": "Lente e corpo visíveis, brilho controlado.",
+        "motion": "Pequena mudança de luz.",
+        "review": "Brilho não apaga a forma do produto."
+      },
+      {
+        "time": "14–16",
+        "scene": "Retorno ao conjunto",
+        "image_prompt": "Mesma composição principal com produto inteiro.",
+        "motion": "Movimento reduz até parar.",
+        "review": "Alça, lente e corpo mantidos."
+      },
+      {
+        "time": "16–18",
+        "scene": "Encerramento",
+        "image_prompt": "Produto inteiro, fundo limpo para frase adicionada no editor.",
+        "motion": "Câmera fixa.",
+        "review": "Nome e identificação cabem sem cobrir o objeto."
+      }
+    ],
+    "voice": "Quando tudo parece igual, uma pausa muda o olhar. Lume: imagine outro caminho. Grave em ritmo natural, ouça e distribua a frase pelos 18 segundos. Não corte palavras para caber.",
+    "check": "Nove cenas, 18 segundos, produto coerente e voz compreensível. Identificação: conceito fictício com IA."
+  },
+  {
+    "slug": "vento",
+    "title": "Vento · sequência musical",
+    "duration": 20,
+    "image": 5,
+    "fixed": "Pessoa adulta de roupa coral, corredor de vidro verde, mesma luz e direção. Quatro clipes editados; não é tomada real única.",
+    "rows": [
+      {
+        "time": "0–5",
+        "scene": "Começar",
+        "image_prompt": "Pessoa inteira no começo do corredor, braços relaxados.",
+        "motion": "Começa a caminhar devagar; câmera acompanha.",
+        "review": "Corpo, roupa e pilares estáveis."
+      },
+      {
+        "time": "5–10",
+        "scene": "Avançar",
+        "image_prompt": "Use o último quadro limpo anterior; mesma pessoa alguns passos adiante.",
+        "motion": "Continua na mesma direção.",
+        "review": "Posição e escala encaixam na passagem."
+      },
+      {
+        "time": "10–15",
+        "scene": "Faixa de luz",
+        "image_prompt": "Mesma pessoa atravessa uma faixa de sol no piso.",
+        "motion": "Caminhada pequena, sem giro.",
+        "review": "Luz pertence ao espaço, não muda a roupa."
+      },
+      {
+        "time": "15–20",
+        "scene": "Parar",
+        "image_prompt": "Mesmo corredor; pessoa encerra o passo.",
+        "motion": "Movimento desacelera até parar.",
+        "review": "Pés não deslizam e música termina de forma deliberada."
+      }
+    ],
+    "voice": "Instrumental do kit ao longo dos 20 segundos. Ouça antes de decidir as emendas. Os intervalos são uma estrutura de estudo, não uma análise de batidas da faixa.",
+    "check": "Quatro trechos, três emendas conferidas, som contínuo e créditos preservados. Identificação: estudo fictício com IA."
+  },
+  {
+    "slug": "senda",
+    "title": "Senda · produto com cinco planos",
+    "duration": 15,
+    "image": 8,
+    "fixed": "Armação âmbar translúcida, duas lentes escuras, ponte e duas hastes. Papel creme. Sem alegações de proteção ou saúde.",
+    "rows": [
+      {
+        "time": "0–3",
+        "scene": "Inteiro",
+        "image_prompt": "Óculos inteiros sobre papel creme, margem para as hastes.",
+        "motion": "Aproximação lenta.",
+        "review": "Conjunto reconhecível."
+      },
+      {
+        "time": "3–6",
+        "scene": "Papel",
+        "image_prompt": "Mesma armação, dobra de papel em primeiro plano.",
+        "motion": "Dobra se move suavemente.",
+        "review": "Papel não transforma o produto."
+      },
+      {
+        "time": "6–9",
+        "scene": "Material",
+        "image_prompt": "Detalhe da armação âmbar e da dobradiça.",
+        "motion": "Câmera quase parada.",
+        "review": "Material e junções coerentes."
+      },
+      {
+        "time": "9–12",
+        "scene": "Ângulo",
+        "image_prompt": "Mesma referência, ângulo levemente diferente.",
+        "motion": "Movimento mínimo, sem giro completo.",
+        "review": "Duas hastes sem atravessar lentes."
+      },
+      {
+        "time": "12–15",
+        "scene": "Encerramento",
+        "image_prompt": "Produto inteiro com fundo limpo.",
+        "motion": "Câmera fixa.",
+        "review": "Frase Senda: observe os detalhes legível."
+      }
+    ],
+    "voice": "Música autorizada opcional. A peça funciona sem voz. Se usar o trecho do kit, recorte conscientemente para 15 segundos e preserve o crédito.",
+    "check": "Cinco cenas, 15 segundos, construção coerente e frase legível. Identificação: conceito fictício com IA."
+  },
+  {
+    "slug": "pulso",
+    "title": "Pulso · anúncio esportivo reduzido",
+    "duration": 12,
+    "image": 11,
+    "fixed": "Tênis coral, sola creme, cadarços corais; roupa azul marinho e pista azul. Não promete desempenho nem saúde.",
+    "rows": [
+      {
+        "time": "0–4",
+        "scene": "Produto",
+        "image_prompt": "Tênis lateral apoiado na pista azul.",
+        "motion": "Câmera fixa ou aproximação pequena.",
+        "review": "Contato com a pista e solado coerentes."
+      },
+      {
+        "time": "4–8",
+        "scene": "Preparação",
+        "image_prompt": "Pessoa adulta parada em pé, braços soltos, roupa azul marinho, calçando a referência.",
+        "motion": "Pequena mudança de peso.",
+        "review": "Duas pernas, dois pés, equilíbrio."
+      },
+      {
+        "time": "8–12",
+        "scene": "Um passo",
+        "image_prompt": "Mesma pessoa e direção, espaço para avançar um pé.",
+        "motion": "Um passo curto e apoio na pista.",
+        "review": "Pé não atravessa chão; corpo não se multiplica."
+      }
+    ],
+    "voice": "Três batidas leves gravadas por você podem marcar a edição. São um recurso de ritmo, não um registro cardíaco. Alternativa: primeiro montar em silêncio.",
+    "check": "Três cenas, 12 segundos, apoio e anatomia conferidos. Identificação: conceito fictício com IA."
+  },
+  {
+    "slug": "arquivo",
+    "title": "Arquivo do Vento · primeira pessoa",
+    "duration": 16,
+    "image": 14,
+    "fixed": "Quatro referências: sala terracota, instrumento astronômico de latão, luvas cinza e luz do teto circular. Não representa local existente.",
+    "rows": [
+      {
+        "time": "0–4",
+        "scene": "Entrada",
+        "image_prompt": "Visão da entrada para a mesa; luz da abertura circular.",
+        "motion": "Avanço lento.",
+        "review": "Mesa e teto correspondem ao mapa."
+      },
+      {
+        "time": "4–8",
+        "scene": "Aproximação",
+        "image_prompt": "Mesma sala, mesa mais próxima; objeto permanece no centro da ação.",
+        "motion": "Avanço pequeno, sem atravessar mesa.",
+        "review": "Aproximação coerente com a escala."
+      },
+      {
+        "time": "8–12",
+        "scene": "Observação",
+        "image_prompt": "Instrumento de latão próximo; luvas na base do quadro.",
+        "motion": "Mãos estáveis; leve ajuste do olhar.",
+        "review": "Mãos e objeto sem deformação."
+      },
+      {
+        "time": "12–16",
+        "scene": "Encerramento",
+        "image_prompt": "Mesmo ponto de vista, instrumento e sala reconhecíveis.",
+        "motion": "Movimento termina com calma.",
+        "review": "Portas, teto e mesa permanecem no lugar."
+      }
+    ],
+    "voice": "Som ambiente próprio ou autorizado, discreto. Pode começar em silêncio para conferir o espaço. Música e susto não são obrigatórios.",
+    "check": "Quatro cenas, 16 segundos, três passagens espaciais conferidas. Identificação: universo fictício com IA."
+  },
+  {
+    "slug": "dobra",
+    "title": "Dobra · demonstração em sete cenas",
+    "duration": 21,
+    "image": 17,
+    "fixed": "Jo: pele morena, cabelo preto curto, blusa creme. Bolsa retangular de lona oliva com duas alças creme. Personagem e produto fictícios.",
+    "rows": [
+      {
+        "time": "0–3",
+        "scene": "Apresentação",
+        "image_prompt": "Jo de meio corpo segurando a bolsa inteira.",
+        "motion": "Fala curta, gestos mínimos.",
+        "review": "Veja o formato. Boca e voz conferidas, ou narração identificada."
+      },
+      {
+        "time": "3–6",
+        "scene": "Inteiro",
+        "image_prompt": "Bolsa inteira, mesma referência.",
+        "motion": "Câmera fixa.",
+        "review": "A bolsa por inteiro. Forma retangular preservada."
+      },
+      {
+        "time": "6–9",
+        "scene": "Alças",
+        "image_prompt": "Detalhe das alças creme presas ao corpo da bolsa.",
+        "motion": "Mão segura sem torcer.",
+        "review": "Observe as alças. Mão e tecido não se fundem."
+      },
+      {
+        "time": "9–12",
+        "scene": "Tecido",
+        "image_prompt": "Detalhe da lona oliva.",
+        "motion": "Aproximação pequena.",
+        "review": "Detalhe do tecido. Textura não muda de material."
+      },
+      {
+        "time": "12–15",
+        "scene": "Abertura",
+        "image_prompt": "Bolsa aberta, sem alegação de capacidade ou objetos surgindo.",
+        "motion": "Movimento mínimo.",
+        "review": "Veja a abertura. Bordas e alças coerentes."
+      },
+      {
+        "time": "15–18",
+        "scene": "Conjunto",
+        "image_prompt": "Jo e bolsa inteiras no enquadramento de meio corpo.",
+        "motion": "Pose simples.",
+        "review": "Compare o conjunto. Rosto, roupa e produto preservados."
+      },
+      {
+        "time": "18–21",
+        "scene": "Encerramento",
+        "image_prompt": "Produto visível e espaço para identificação.",
+        "motion": "Câmera fixa.",
+        "review": "Conheça o conceito Dobra. Frase inteira e legível."
+      }
+    ],
+    "voice": "Use as sete frases curtas indicadas, com pausas. Voz própria ou sintética permitida. Narração sobre detalhes reduz a necessidade de sincronização. Não invente experiência de compra.",
+    "check": "Sete cenas, 21 segundos, fala, personagem e bolsa coerentes. Identificação visível: Demonstração fictícia com IA."
+  }
+]

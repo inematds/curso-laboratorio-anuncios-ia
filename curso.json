@@ -1,0 +1,87 @@
+{
+  "id": "laboratorio-anuncios-v62",
+  "titulo": "Laboratório de Anúncios com IA: 6 Cases Desmontados v6.2",
+  "titulo_html": "Desmonte a ideia. <em>Construa o anúncio.</em>",
+  "curso_curto": "Laboratório de Anúncios v6.2",
+  "kicker": "Produção v6.2 · 8 módulos · 24 aulas",
+  "lead": "Seis casos autorais, do roteiro à revisão, com marcas fictícias e decisões que você consegue conferir.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Diretora e lojista planejam uma produção com referências.",
+  "rodape": "Laboratório de Anúncios v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Lume · anúncio narrado",
+      "resumo": "Ligue nove cenas por uma mensagem e uma voz clara.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Vento · sequência musical",
+      "resumo": "Planeje o som e confira quatro trechos encadeados.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Senda · produto e storyboard",
+      "resumo": "Desenhe cinco planos e preserve o produto nas passagens.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Pulso · anúncio esportivo",
+      "resumo": "Reduza o escopo e confira apoio, corpo e ritmo.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Arquivo do Vento · primeira pessoa",
+      "resumo": "Use quatro referências e um mapa de continuidade espacial.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "titulo": "Módulo 6 · Dobra · demonstração com personagem",
+      "resumo": "Organize sete cenas identificadas, sem depoimento inventado.",
+      "aulas": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "titulo": "Módulo 7 · Processo de produção",
+      "resumo": "Rastreie arquivos, tentativas e revisão.",
+      "aulas": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "titulo": "Módulo 8 · Acabamento e entrega",
+      "resumo": "Compare versões e organize seis estudos com um acabamento final.",
+      "aulas": [
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}
